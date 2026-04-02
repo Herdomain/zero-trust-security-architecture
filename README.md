@@ -26,7 +26,9 @@ Encrypted Data
 Whether data is being actively used, sent across the internet, or stored on a device — it's encrypted at every stage. If a laptop is lost or stolen, the data on it cannot be accessed without proper authorization.
 
 ## If a Breach Were Detected
-The response would follow a clear sequence: identify the suspicious activity → investigate where it came from → alert the security team → cut off the compromised account or device → restore secure access → update the system to prevent it from happening again.
+The response would follow a clear sequence:
+
+Identify the suspicious activity → investigate where it came from → alert the security team → cut off the compromised account or device → restore secure access → update the system to prevent it from happening again.
 
 ## Next Steps
 
