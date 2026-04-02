@@ -14,13 +14,13 @@ This project addresses that by applying a Zero Trust approach: nobody is automat
 ## What Was Built
 **Stronger Login Security**
 
-Users are required to create long, complex passwords that are regularly updated. On top of that, a second form of verification (like a code sent to a phone) is required before anyone can log in — so a stolen password alone isn't enough to break in.
+- Users are required to create long, complex passwords that are regularly updated. On top of that, a second form of verification (like a code sent to a phone) is required before anyone can log in — so a stolen password alone isn't enough to break in.
 
 **Safe Remote Access**
-Employees working from home or on the go connect through an encrypted tunnel (VPN) that protects their activity from being intercepted on public or unsecured networks.
+- Employees working from home or on the go connect through an encrypted tunnel (VPN) that protects their activity from being intercepted on public or unsecured networks.
 Protected Email
 
-Emails are digitally signed and encrypted so that only the intended recipient can read them, reducing the risk of phishing and sensitive information being intercepted.
+- Emails are digitally signed and encrypted so that only the intended recipient can read them, reducing the risk of phishing and sensitive information being intercepted.
 Encrypted Data
 
 Whether data is being actively used, sent across the internet, or stored on a device — it's encrypted at every stage. If a laptop is lost or stolen, the data on it cannot be accessed without proper authorization.
