@@ -68,13 +68,6 @@ If suspicious access or a potential breach were detected, I would:
 - I would implement endpoint detection and response (EDR) solutions  
 - I would simulate attacks to test Zero Trust effectiveness  
 
-## Full Documentation
-See full Zero Trust framework and policy design here:  
-👉 :contentReference[oaicite:1]{index=1}
-🧾 ✅ GitHub “About” Section
-
-Use this:
-
 
 
 
