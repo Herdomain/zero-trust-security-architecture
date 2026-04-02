@@ -2,7 +2,7 @@
 A cybersecurity project designed to protect a company's systems, data, and employees from unauthorized access and cyber threats. Built using globally recognized security standards including NIST, ISO 27001, and CIS.
 
 ## Why This Matters
-Every day, organizations face cyberattacks that can result in stolen customer data, financial loss, and lasting damage to their reputation. Many of these breaches don't happen because of sophisticated hacking — they happen because an attacker got hold of one password and was able to walk through an entire system unchallenged.
+Every day, organizations face cyberattacks that can result in stolen customer data, financial loss, and lasting damage to their reputation. Many of these breaches don't happen because of sophisticated hacking, they happen because an attacker got hold of one password and was able to walk through an entire system unchallenged.
 
 This project was built around a simple idea: trust no one automatically, verify everyone continuously. That mindset, applied consistently across a company's systems, makes it significantly harder for attackers to do damage even when they do get in.
 
