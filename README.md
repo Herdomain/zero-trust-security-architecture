@@ -3,6 +3,8 @@
 ## Overview
 I designed a Zero Trust cybersecurity framework to protect corporate systems and sensitive data by enforcing continuous verification, strong authentication, and comprehensive encryption.
 
+Zero Trust security architecture project implementing MFA, encryption, and access controls to protect data across all states and reduce unauthorized access risk.
+
 ## Problem
 I wanted to address how organizations can secure their infrastructure against evolving cyber threats, since traditional perimeter-based security models are no longer sufficient to prevent unauthorized access and data breaches.
 
