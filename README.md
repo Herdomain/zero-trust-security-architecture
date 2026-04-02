@@ -1,6 +1,6 @@
 # 🔐 Zero Trust Security Architecture & Data Protection Strategy
 
-## A cybersecurity project designed to protect a company's systems, data, and employees from unauthorized access and cyber threats. Built using globally recognized security standards including NIST, ISO 27001, and CIS.
+A cybersecurity project designed to protect a company's systems, data, and employees from unauthorized access and cyber threats. Built using globally recognized security standards including NIST, ISO 27001, and CIS.
 
 ## Why This Matters
 
